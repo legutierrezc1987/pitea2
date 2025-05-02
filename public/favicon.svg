@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="32" cy="32" r="30" fill="#F5F5DC" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Letra P estilizada -->
+  <path d="M20,18 L20,46 L26,46 L26,35 L32,35 C38,35 42,31 42,26.5 C42,22 38,18 32,18 Z" fill="#8B4513"/>
+  
+  <!-- Interior de la P -->
+  <path d="M26,24 L31,24 C34,24 36,25 36,26.5 C36,28 34,29 31,29 L26,29 Z" fill="#F5F5DC"/>
+  
+  <!-- Número 2 -->
+  <path d="M40,36 C40,36 45,40 45,43 C45,46 42,48 38,48 C34,48 32,46 32,46 L34,41 C34,41 36,42 37,42 C38,42 39,41 39,40 C39,39 36,36 36,36 Z" fill="#DAA520"/>
+  
+  <!-- Elemento decorativo piteado -->
+  <path d="M18,50 L46,50" stroke="#C0C0C0" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.5,1.5"/>
+</svg> 
