@@ -4,6 +4,8 @@
 
 Sitio web para Pitea2, especializado en la venta de carteras y cintos piteados con hilos de plata de la más alta calidad.
 
+Ahora disponible en nuestro dominio personalizado: [pitea2.us](https://pitea2.us)
+
 ## Características
 
 - Diseño responsive para dispositivos móviles y desktop
