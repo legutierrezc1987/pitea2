@@ -26,8 +26,8 @@ Sitio web para Pitea2, especializado en la venta de carteras y cintos piteados c
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/Pitea2.git
-cd Pitea2
+git clone https://github.com/legutierrezc1987/pitea2.git
+cd pitea2
 ```
 
 2. Instala las dependencias:
@@ -72,6 +72,10 @@ Para reemplazar las imágenes de ejemplo, coloca tus imágenes en `src/assets/im
 ## Contacto
 
 Para cualquier pregunta o asistencia, contacta a través de WhatsApp: +52 395 788 1559
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
