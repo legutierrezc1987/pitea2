@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  base: '/Pitea2/', // Nombre del repositorio
+  base: '/',          // o simplemente elimina la línea 'base'
+  // …
 })
